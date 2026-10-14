@@ -1,0 +1,8 @@
+2026-10-05T08:01:12Z checkout-api INFO request id=a1 path=/pay latency_ms=120
+2026-10-05T08:03:40Z checkout-api WARN db pool near capacity active=48 max=50
+2026-10-05T08:04:02Z checkout-api ERROR timeout acquiring db connection after 30000ms
+2026-10-05T08:04:03Z checkout-api ERROR timeout acquiring db connection after 30000ms
+2026-10-05T08:04:30Z payments-worker INFO job id=77 completed
+2026-10-05T08:05:11Z checkout-api ERROR 503 upstream connect error path=/pay
+2026-10-05T08:05:45Z checkout-api INFO deploy v2.14.0 rolled out, new background reconciler enabled
+2026-10-05T08:06:20Z checkout-api WARN reconciler holding long-lived transactions count=31

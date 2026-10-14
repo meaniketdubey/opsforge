@@ -1,0 +1,6 @@
+{
+  "id": "OPS-1042",
+  "title": "Checkout failing with 503s since this morning",
+  "body": "Customers report payment failures on /pay. Started around 08:04 UTC. Error rate is climbing. A deploy went out shortly before.",
+  "reporter": "support-oncall"
+}

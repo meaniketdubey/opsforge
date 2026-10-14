@@ -1,0 +1,3 @@
+claude-agent-sdk
+pytest
+pytest-asyncio
